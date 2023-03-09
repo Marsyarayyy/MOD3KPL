@@ -1,0 +1,10 @@
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\bin\Debug\JURNAL_MOD3_1302213003.exe.config
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\bin\Debug\JURNAL_MOD3_1302213003.exe
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\bin\Debug\JURNAL_MOD3_1302213003.pdb
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.csproj.AssemblyReference.cache
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.Properties.Resources.resources
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.csproj.GenerateResource.cache
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.exe
+C:\Users\marsy\Downloads\MOD3KPL\JURNAL_MOD3_1302213003\obj\Debug\JURNAL_MOD3_1302213003.pdb
